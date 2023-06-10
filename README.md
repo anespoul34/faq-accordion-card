@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![header](https://github.com/anespoul34/faq-accordion-card/blob/main/static/assets/images/screenshot.png)
+![header](https://github.com/anespoul34/faq-accordion-card/blob/main/images/screenshot.png)
 
 ### Links
 
