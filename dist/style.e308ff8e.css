@@ -157,19 +157,26 @@ li.open .arrow-icon {
     align-items: center;
   }
   main {
-    width: 900px;
-    max-width: 900px;
+    width: 940px;
+    max-width: 940px;
     height: 500px;
     min-height: 500px;
     flex-direction: row;
     justify-content: flex-end;
     align-items: flex-start;
-    overflow: hidden;
-    padding: 60px 80px 40px;
+    padding: 60px 60px 40px 0;
   }
   .mobile-img,
   .mobile-shadow-img {
     display: none;
+  }
+  .img-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+    overflow: hidden;
   }
   .desktop-img,
   .desktop-shadow-img,
@@ -184,10 +191,12 @@ li.open .arrow-icon {
     transform: translate(-95px, -20%);
   }
   .desktop-shadow-img {
-    width: 472px;
+    width: 600px;
+    right: 0;
+    left: auto;
   }
   .container {
-    width: 50%;
+    width: 48%;
   }
   .container h1 {
     text-align: left;
