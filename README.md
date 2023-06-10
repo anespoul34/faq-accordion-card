@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [link](link)
-- Live Site URL: [link](link)
+- Solution URL: [link](https://www.frontendmentor.io/solutions/faq-accordion-card-using-htmlcssjavascript-6pTKMQcmkB)
+- Live Site URL: [link](https://faq-accordion-card-delta-lac.vercel.app/)
 
 ## My process
 
